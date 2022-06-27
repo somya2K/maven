@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="IN-PG02P60F" name="week5.advancejava1.AppTest" skipped="0" tests="1" time="0.106" timestamp="2022-04-29T13:10:01">
+  <properties>
+    <property name="sun.desktop" value="windows" />
+    <property name="ant.library.dir" value="C:\Software\apache-ant-1.10.12\lib" />
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
+    <property name="project.build.directory" value="target" />
+    <property name="ant.file.type" value="file" />
+    <property name="java.specification.version" value="11" />
+    <property name="ant.project.name" value="advancejava1-from-maven" />
+    <property name="sun.cpu.isalist" value="amd64" />
+    <property name="maven.reporting.outputDirectory" value="target/site" />
+    <property name="sun.jnu.encoding" value="Cp1252" />
+    <property name="java.class.path" value="C:\Users\somyasingh\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;C:\Users\somyasingh\.m2\repository\com\opencsv\opencsv\4.1\opencsv-4.1.jar;C:\Users\somyasingh\.m2\repository\org\apache\commons\commons-lang3\3.6\commons-lang3-3.6.jar;C:\Users\somyasingh\.m2\repository\org\apache\commons\commons-text\1.1\commons-text-1.1.jar;C:\Users\somyasingh\.m2\repository\commons-beanutils\commons-beanutils\1.9.3\commons-beanutils-1.9.3.jar;C:\Users\somyasingh\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\somyasingh\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar;C:\Users\somyasingh\.m2\repository\org\apache\commons\commons-csv\1.7\commons-csv-1.7.jar;D:\workspace\somya\advancejava1\target\classes;D:\workspace\somya\advancejava1\target\test-classes;C:\Software\apache-ant-1.10.12\lib\ant-launcher.jar;C:\Software\apache-ant-1.10.12\lib\ant.jar;C:\Software\apache-ant-1.10.12\lib\ant-junit.jar;C:\Software\apache-ant-1.10.12\lib\ant-junit4.jar" />
+    <property name="java.vm.vendor" value="Oracle Corporation" />
+    <property name="sun.arch.data.model" value="64" />
+    <property name="user.variant" value="" />
+    <property name="java.vendor.url" value="http://java.oracle.com/" />
+    <property name="ant.file.type.advancejava1-from-maven" value="file" />
+    <property name="user.timezone" value="" />
+    <property name="maven.build.outputDir" value="target/classes" />
+    <property name="project.build.outputDirectory" value="target/classes" />
+    <property name="maven.build.testResourceDir.0" value="src/test/resources" />
+    <property name="os.name" value="Windows 10" />
+    <property name="java.vm.specification.version" value="11" />
+    <property name="maven.build.resourceDir.0" value="src/main/resources" />
+    <property name="user.country" value="IN" />
+    <property name="sun.java.launcher" value="SUN_STANDARD" />
+    <property name="sun.boot.library.path" value="C:\Software\Open JKD -11\bin" />
+    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner week5.advancejava1.AppTest skipNonTests=false filtertrace=true haltOnError=true haltOnFailure=true formatter=org.apache.tools.ant.taskdefs.optional.junit.SummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,D:\workspace\somya\advancejava1\target\test-reports\TEST-week5.advancejava1.AppTest.xml formatter=org.apache.tools.ant.taskdefs.optional.junit.PlainJUnitResultFormatter crashfile=D:\workspace\somya\advancejava1\junitvmwatcher3056730077906297626.properties propsfile=D:\workspace\somya\advancejava1\junit16481067627879749039.properties" />
+    <property name="jdk.debug" value="release" />
+    <property name="sun.cpu.endian" value="little" />
+    <property name="user.home" value="C:\Users\somyasingh" />
+    <property name="user.language" value="en" />
+    <property name="sun.stderr.encoding" value="cp437" />
+    <property name="java.specification.vendor" value="Oracle Corporation" />
+    <property name="java.version.date" value="2018-10-16" />
+    <property name="java.home" value="C:\Software\Open JKD -11" />
+    <property name="maven.build.testOutputDir" value="target/test-classes" />
+    <property name="basedir" value="." />
+    <property name="file.separator" value="\" />
+    <property name="maven.build.srcDir.0" value="src/main/java" />
+    <property name="java.vm.compressedOopsMode" value="Zero based" />
+    <property name="sun.stdout.encoding" value="cp437" />
+    <property name="line.separator" value="&#xd;&#xa;" />
+    <property name="ant.java.version" value="11" />
+    <property name="java.specification.name" value="Java Platform API Specification" />
+    <property name="java.vm.specification.vendor" value="Oracle Corporation" />
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
+    <property name="maven.build.dir" value="target" />
+    <property name="maven.build.testDir.0" value="src/test/java" />
+    <property name="user.script" value="" />
+    <property name="maven.build.finalName" value="advancejava1-0.0.1-SNAPSHOT" />
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers" />
+    <property name="java.runtime.version" value="11.0.1+13" />
+    <property name="user.name" value="somyasingh" />
+    <property name="ant.file" value="D:\workspace\somya\advancejava1\maven-build.xml" />
+    <property name="path.separator" value=";" />
+    <property name="maven.settings.interactiveMode" value="true" />
+    <property name="os.version" value="10.0" />
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment" />
+    <property name="file.encoding" value="Cp1252" />
+    <property name="ant.project.invoked-targets" value="package" />
+    <property name="project.build.sourceEncoding" value="UTF-8" />
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM" />
+    <property name="java.vendor.version" value="18.9" />
+    <property name="ant.core.lib" value="C:\Software\apache-ant-1.10.12\lib\ant.jar" />
+    <property name="java.vendor.url.bug" value="http://bugreport.java.com/bugreport/" />
+    <property name="java.io.tmpdir" value="C:\Users\SOMYAS~1\AppData\Local\Temp\" />
+    <property name="java.version" value="11.0.1" />
+    <property name="user.dir" value="D:\workspace\somya\advancejava1" />
+    <property name="os.arch" value="amd64" />
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
+    <property name="maven.test.reports" value="target/test-reports" />
+    <property name="ant.file.advancejava1-from-maven" value="D:\workspace\somya\advancejava1\maven-build.xml" />
+    <property name="ant.home" value="C:\Software\apache-ant-1.10.12" />
+    <property name="maven.settings.offline" value="false" />
+    <property name="junit.present" value="true" />
+    <property name="sun.os.patch.level" value="" />
+    <property name="ant.version" value="Apache Ant(TM) version 1.10.12 compiled on October 13 2021" />
+    <property name="java.library.path" value="C:\Software\Open JKD -11\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Microsoft MPI\Bin\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\TortoiseSVN\bin;C:\Program Files\dotnet\;C:\Software\Open JKD -11\bin;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\nodejs\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\DTS\Binn\;C:\Program Files\Microsoft SQL Server\140\DTS\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\dotnet\;C:\Program Files\Git\cmd;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\somyasingh\AppData\Local\Microsoft\WindowsApps;C:\Users\somyasingh\.dotnet\tools;C:\Users\somyasingh\AppData\Roaming\npm;C:\Program Files\Azure Data Studio\bin;C:\Users\somyasingh\AppData\Local\Programs\Microsoft VS Code\bin;C:\apache-maven-3.6.3-bin\apache-maven-3.6.3\bin;C:\Software\apache-ant-1.10.12\bin;;." />
+    <property name="java.vendor" value="Oracle Corporation" />
+    <property name="java.vm.info" value="mixed mode" />
+    <property name="java.vm.version" value="11.0.1+13" />
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+    <property name="maven.repo.local" value="C:\Users\somyasingh/.m2/repository" />
+    <property name="java.class.version" value="55.0" />
+    <property name="ant.project.default-target" value="package" />
+  </properties>
+  <testcase classname="week5.advancejava1.AppTest" name="testApp" time="0.0" />
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
